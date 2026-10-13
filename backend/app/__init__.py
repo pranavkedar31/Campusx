@@ -1,0 +1,3 @@
+"""
+CampusX Backend Application Package.
+"""
